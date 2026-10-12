@@ -1,10 +1,10 @@
-## Identitas
+# PROFIL
 
 * **Nama:** Prevansyah Sjafar
 * **NPM:** 4525210057
 * **Jurusan:** Teknik Informatika
 
-# Arunika Studio
+## Arunika Studio
 
 Landing page sederhana untuk Arunika Studio, sebuah studio yang bergerak di bidang desain web, pengembangan web, dan UI/UX design.
 
