@@ -33,12 +33,6 @@ arunika-studio/
     └── output3.png
 ```
 
-## Cara Menjalankan
-
-1. Clone atau unduh repository proyek.
-2. Buka folder `arunika-studio`.
-3. Buka file `index.html` menggunakan browser.
-4. Uji tampilan desktop dan mobile melalui browser.
 
 ## Konsep Desain
 
